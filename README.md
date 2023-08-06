@@ -40,4 +40,4 @@ docker-compose down
 * [Official website](https://hadoop.apache.org/docs/stable/index.html)
 * [Docker source code for hadoop3](https://github.com/apache/hadoop/tree/docker-hadoop-3)
 * [Docker source code for hadoop2](https://github.com/apache/hadoop/tree/docker-hadoop-2)
-
+* [S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies-financials#data)
